@@ -8,6 +8,7 @@ public class Main {
 
         for (String book: author.getBooks()) {
             System.out.println(book);
+            System.out.println("Yes");
         }
     }
 }
